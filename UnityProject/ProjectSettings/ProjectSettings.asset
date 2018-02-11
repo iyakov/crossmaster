@@ -542,7 +542,7 @@ PlayerSettings:
     17: MOBILE_INPUT
   platformArchitecture: {}
   scriptingBackend:
-    Standalone: 1
+    Standalone: 0
   il2cppCompilerConfiguration: {}
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
